@@ -59,7 +59,7 @@ To design an interactive hr analytics dashboard that:
 • Enable data-driven decisions to improve employee retention and workforce planning.
 
 ## 6.	Screenshot:
-Example: ![Dashboard Preview]([https://github.com/YS-Analytics/Hospital-Analysis-Dashboard/blob/main/Dashboard/Overview.png](https://github.com/YS-Analytics/HR-Analytics-Dashboard/blob/b363e077ef1bfc06a7f0404ed624adb95195ec76/Dashboard/Overall%20Data%20.png))
+Example: ![Dashboard Preview](https://github.com/YS-Analytics/HR-Analytics-Dashboard/blob/main/Dashboard/Overall%20Data%20.png)
 
 ## 7. Project Link:
 [https://app.powerbi.com/view?r=eyJrIjoiZWJiOTJjNzgtNzYyOS00MjdhLWE2NzItYzUzMjAzM2U4NTZjIiwidCI6IjQ3MDI3YTE1LTA5YWItNGYwNC1hZGZjLTE3ZDc0OWMzNWIwMCJ9&pageName=86197b600ed4c02536db](https://app.powerbi.com/view?r=eyJrIjoiNTk5NGVjNjMtNTdlZS00MWZmLTg1NDQtMDFkZDRjNDllMTMwIiwidCI6IjQ3MDI3YTE1LTA5YWItNGYwNC1hZGZjLTE3ZDc0OWMzNWIwMCJ9)
