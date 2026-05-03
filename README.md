@@ -62,4 +62,4 @@ To design an interactive hr analytics dashboard that:
 Example: ![Dashboard Preview](https://github.com/YS-Analytics/HR-Analytics-Dashboard/blob/main/Dashboard/Overall%20Data%20.png)
 
 ## 7. Project Link:
-[[https://app.powerbi.com/view?r=eyJrIjoiZWJiOTJjNzgtNzYyOS00MjdhLWE2NzItYzUzMjAzM2U4NTZjIiwidCI6IjQ3MDI3YTE1LTA5YWItNGYwNC1hZGZjLTE3ZDc0OWMzNWIwMCJ9&pageName=86197b600ed4c02536db](https://app.powerbi.com/view?r=eyJrIjoiNTk5NGVjNjMtNTdlZS00MWZmLTg1NDQtMDFkZDRjNDllMTMwIiwidCI6IjQ3MDI3YTE1LTA5YWItNGYwNC1hZGZjLTE3ZDc0OWMzNWIwMCJ9)](https://app.powerbi.com/view?r=eyJrIjoiZmNkMDk1M2ItNzI0NC00ZGVmLWE5ODQtNmRlY2RkNjBlYjc3IiwidCI6IjQ3MDI3YTE1LTA5YWItNGYwNC1hZGZjLTE3ZDc0OWMzNWIwMCJ9)
+https://app.powerbi.com/view?r=eyJrIjoiZmNkMDk1M2ItNzI0NC00ZGVmLWE5ODQtNmRlY2RkNjBlYjc3IiwidCI6IjQ3MDI3YTE1LTA5YWItNGYwNC1hZGZjLTE3ZDc0OWMzNWIwMCJ9
